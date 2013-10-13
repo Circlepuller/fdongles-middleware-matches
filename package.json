@@ -1,11 +1,12 @@
 {
   "name": "fdongles-middleware-matches",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "description": "A ForkingDongles middleware for message matching using the 'routes' module",
   "engines": {
     "node": "~0.10.20"
   },
   "dependencies": {
-    "fdongles": "~0.3.1",
+    "fdongles": "~0.3.2",
     "routes": "~0.2.0"
   },
   "devDependencies": {
@@ -32,5 +33,6 @@
       "name": "Dan Saunders",
       "email": "dsaunders@dansaunders.me"
     }
-  ]
+  ],
+  "license": "BSD"
 }
